@@ -1,0 +1,12 @@
+Enter length of the array
+7
+Enter the elements of array
+2
+4
+5
+5
+5
+5
+5
+Majority Element is:
+5
